@@ -1,6 +1,6 @@
 ## Shoutbox Sound Notification
 
-Request: http://support.proboards.com/thread/660322/notification-sound-shoutbox?
+Request: http://support.proboards.com/thread/660322/
 
 Plays a sound to the user when there is a new message in the shoutbox.
 
