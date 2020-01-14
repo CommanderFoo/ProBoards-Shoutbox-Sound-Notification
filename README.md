@@ -1,4 +1,4 @@
-#Shoutbox Sound Notification
+Shoutbox Sound Notification
 
 Request: http://support.proboards.com/thread/660322/notification-sound-shoutbox?
 
